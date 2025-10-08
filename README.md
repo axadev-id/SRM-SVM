@@ -1012,8 +1012,8 @@ Jika Anda menggunakan kode ini dalam riset Anda, silakan sitasi:
 ```bibtex
 @misc{srm-svm-steganalysis,
   title={SRM-SVM Steganalysis: Optimal Image Steganography Detection},
-  author={Tugas Akhir Research},
-  year={2024},
+  author={Fajrul Raamdhana Aqsa},
+  year={2025,
   note={Targeting 80%+ accuracy with comprehensive optimization}
 }
 ```
